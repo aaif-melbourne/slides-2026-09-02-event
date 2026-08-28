@@ -29,7 +29,7 @@ PowerPoint slides are exported as images, while presenter notes remain attached 
 make build
 ```
 
-The GitHub Actions deployment workflow is intentionally disabled. Production builds are local only.
+Pushes to `main` build and deploy the deck to GitHub Pages. The workflow can also be run manually from the Actions tab.
 
 ## License
 
