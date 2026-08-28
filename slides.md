@@ -42,7 +42,7 @@ So if you have feedback after tonight, please let us know. And of course, we'll 
 
 # What is the AAIF?
 
-<p class="text-md leading-[1.5]">The Agentic AI Foundation is the Linux Foundation’s neutral home for open standards and projects that power AI agents.</p>
+<p class="text-md !leading-[1.4] pt-2">The Agentic AI Foundation is the Linux Foundation’s neutral home for open standards and projects that power AI agents.</p>
 
 <div class="foundation-map">
   <div class="foundation-root logo-node">
