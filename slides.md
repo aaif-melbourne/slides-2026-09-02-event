@@ -385,23 +385,27 @@ So please scan the QR code to submit to our call for papers. If you're unsure wh
 
 <div class="qr-layout">
   <div>
-    <div class="statement">The next event is already taking shape.</div>
-    <p>Follow the Melbourne community page<br />to be first to know.</p>
-    <a href="https://luma.com/aaif-melbourne">luma.com/aaif-melbourne</a>
+    <div class="statement">Registrations are now open.</div>
+    <p style="font-size: 1.2em;">Thursday 1st October 2026</p>
+    <a style="font-size: 1.1em;" href="https://luma.com/ioxvp4zf">luma.com/ioxvp4zf</a>
+    <p style="font-size: 1em;">Follow the Melbourne community Luma page<br />to be notified of all future events.</p>
+    <a style="font-size: 1em;" href="https://aimelb.org">aimelb.org</a>
   </div>
-  <ProjectQr value="https://luma.com/aaif-melbourne" :size="260" />
+  <ProjectQr value="https://luma.com/ioxvp4zf" :size="260" />
 </div>
 
 <!--
-We're already working on next month's event.
+Registrations are now open for next month's event: Agentic AI Melbourne in October.
 
-The event details will be announced through the AAIF Community Melbourne Luma page.
+Talks and the CBD venue will be announced soon.
 
-If you haven't already, scan this QR code to follow the Luma page. That is the best way to hear about the date, venue, speakers, and registration when they go live.
+Scan this QR code to open the event page and request to join.
 
-And please remember that capacity is going to be limited and registrations are reviewed, so apply early and tell us what you're building.
+Capacity is limited and registrations are reviewed, so apply early and tell us what you're building.
 
 Also just to clarify on those RSVPs, when you tell us what you're building, if you can link to your projects, it's going to go a long way with the review of your registration.
+
+You can also follow the Melbourne community Luma page at aimelb.org to be notified of all future events.
 -->
 
 ---
