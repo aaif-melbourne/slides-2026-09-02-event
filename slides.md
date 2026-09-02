@@ -358,6 +358,25 @@ Let's give all four speakers one more round of applause.
 
 ---
 
+# How did we do?
+
+<div class="qr-layout">
+  <div>
+    <div class="statement">Help us make the next event better.</div>
+    <p>Just 5 short questions.<br />It should take one minute.</p>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScvHpNuDkmmrnTYqIHZ_-wUaWOmE3xNDmZ45ZN-hGyj7DJs_w/viewform?usp=dialog">Open the feedback form →</a>
+  </div>
+  <ProjectQr value="https://docs.google.com/forms/d/e/1FAIpQLScvHpNuDkmmrnTYqIHZ_-wUaWOmE3xNDmZ45ZN-hGyj7DJs_w/viewform?usp=dialog" :size="260" />
+</div>
+
+<!--
+Before we wrap up, we'd really value your feedback on tonight's event.
+
+It's just five short questions and should take one minute. Please scan the QR code and let us know what worked and what we could make better next time.
+-->
+
+---
+
 # What are you building?
 
 <div class="qr-layout">
